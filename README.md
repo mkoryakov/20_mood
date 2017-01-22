@@ -1,6 +1,6 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+Статический сайт для поднятия настроения. При каждом заходе на страницу на ней отображается забавная цитата.
 
 # Project Goals
 
